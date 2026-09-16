@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	<texte>
+		<CHK num_rgl='1' cat_chk='chkNom'>Le gouvernement demande</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>aux familles</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de désigner</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>l’ enfant</CHK>
+		<CHK num_rgl='14' cat_chk='chkPronom'>qu’</CHK>
+		<CHK num_rgl='8' cat_chk='chkVerb'>ils acceptent</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de perdre</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>à la guerre</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Suite</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>aux déclarations</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>du chef</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>d’ état-major</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>des armées</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>les Français</CHK>
+		<CHK num_rgl='12' cat_chk='chkVerb'>sont appelés</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>à sélectionner</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>l’ enfant</CHK>
+		<CHK num_rgl='14' cat_chk='chkPronom'>qu’</CHK>
+		<CHK num_rgl='8' cat_chk='chkVerb'>ils aiment</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le moins</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>pour l’ envoyer</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>sur le front</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>en cas</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de conflit</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>Dans certaines familles</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le choix</CHK>
+		<CHK num_rgl='11' cat_chk='chkVerb'>s’ est fait naturellement</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>“</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>Le petit dernier</CHK>
+		<CHK num_rgl='12' cat_chk='chkVerb'>a su écrire</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>son prénom</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>à 11 ans</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='10' cat_chk='chkVerb'>il s’ appelle</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Tom</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>Avec sa mère</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='11' cat_chk='chkVerb'>on a su très vite</CHK>
+		<CHK num_rgl='14' cat_chk='chkPronom'>que</CHK>
+		<CHK num_rgl='7' cat_chk='chkPrep'>pour lui ce serait</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>soit</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>l’ armée</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>soit</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>la télé-réalité</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>”</CHK>
+		<CHK num_rgl='0' cat_chk='None'>confie</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Gérard</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le père</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>du futur soldat</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>“</CHK>
+		<CHK num_rgl='11' cat_chk='chkVerb'>Il est très endurant</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>et</CHK>
+		<CHK num_rgl='0' cat_chk='None'>pose</CHK>
+		<CHK num_rgl='3' cat_chk='chkVerb'>peu de questions</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='11' cat_chk='chkVerb'>on est sûrs</CHK>
+		<CHK num_rgl='14' cat_chk='chkPronom'>qu’</CHK>
+		<CHK num_rgl='10' cat_chk='chkVerb'>il se plaira</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>à l’ armée</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>”</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='0' cat_chk='None'>ajoute</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>sa mère</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='3' cat_chk='chkVerb'>tout en essayant</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>d’ empêcher</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Tom</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de mettre deux feutres</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>dans son nez simultanément</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>Mais</CHK>
+		<CHK num_rgl='6' cat_chk='chkPrep'>pour de nombreux autres parents</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='0' cat_chk='None'>comme</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Sophie</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>l’ annonce</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>du gouvernement est</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>un vrai coup dur</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>“</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Contrairement</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>à la plupart</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>de nos amis</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='8' cat_chk='chkVerb'>on n’</CHK>
+		<CHK num_rgl='12' cat_chk='chkVerb'>a pas</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>d’ enfant préféré</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='9' cat_chk='chkVerb'>on les aime</CHK>
+		<CHK num_rgl='3' cat_chk='chkVerb'>tous de</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>la même façon</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>et</CHK>
+		<CHK num_rgl='10' cat_chk='chkVerb'>ça nous détruit</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de devoir</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>en sacrifier un</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>”</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='0' cat_chk='None'>explique</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>la quinquagénaire</CHK>
+		<CHK num_rgl='6' cat_chk='chkPrep'>avant de fondre</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>en larmes</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Pourtant</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>d’ ici</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le 1er janvier 2026</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>et</CHK>
+		<CHK num_rgl='0' cat_chk='None'>comme</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>des millions</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de familles françaises</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='8' cat_chk='chkVerb'>elle devra aussi désigner</CHK>
+		<CHK num_rgl='2' cat_chk='chkVerb'>l’ un</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>ou</CHK>
+		<CHK num_rgl='3' cat_chk='chkVerb'>plusieurs de</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>ses enfants</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>pour garnir</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le front</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>en cas</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de guerre</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>Pour simplifier</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>les démarches</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>des familles</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le gouvernement</CHK>
+		<CHK num_rgl='12' cat_chk='chkVerb'>a mis</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>en place</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>une plateforme</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>sur le site</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>de l’</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Armée</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de Terre</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>dans l’ onglet</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>«</CHK>
+		<CHK num_rgl='0' cat_chk='None'>je-donne-mon-enfant</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>»</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>Les parents pourront enregistrer</CHK>
+		<CHK num_rgl='2' cat_chk='chkVerb'>l’ un</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>de leurs enfants</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>ou</CHK>
+		<CHK num_rgl='0' cat_chk='None'>sélectionner</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>l’ option</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>“</CHK>
+		<CHK num_rgl='0' cat_chk='None'>choix aléatoire</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>”</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='10' cat_chk='chkVerb'>s’ ils n’ arrivent pas</CHK>
+		<CHK num_rgl='7' cat_chk='chkPrep'>à se décider</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>Dès sa mise</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>en ligne</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>la plateforme</CHK>
+		<CHK num_rgl='12' cat_chk='chkVerb'>a enregistré</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>un succès inespéré</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>en particulier</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le mercredi</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>et</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>avant le week-end</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='0' cat_chk='None'>note</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le gouvernement</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>Si</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le gouvernement</CHK>
+		<CHK num_rgl='12' cat_chk='chkVerb'>a tenu</CHK>
+		<CHK num_rgl='7' cat_chk='chkPrep'>à se montrer rassurant</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>sur l’ éventualité</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>d’ une guerre prochaine</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de nombreuses familles ont</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>d’ ores</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>et</CHK>
+		<CHK num_rgl='0' cat_chk='None'>déjà envoyé</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>leurs enfants</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>au chef</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>d’ État-major</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>des Armées</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>“</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>au cas où</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>”</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+	</texte>
+</annotation>

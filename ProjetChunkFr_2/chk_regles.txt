@@ -1,0 +1,16 @@
+1 DET+? chkNom
+2 DET+DET chkVerb
+3 DET+PREP chkVerb
+4 PREP+? chkPrep
+5 PREP+DET chkPrep
+6 PREP+PREP chkPrep
+7 PREP+PronomP chkVerb
+8 PronomP+? chkVerb
+9 PronomP+DET chkVerb
+10 PronomP+PronomP chkVerb
+11 PronomP+MOD chkVerb
+12 MOD+? chkVerb
+13 CONJ_ chkConj
+14 PronomR_ chkPronom
+15 PUNCT_ chkPoint
+16 Maj chkNom

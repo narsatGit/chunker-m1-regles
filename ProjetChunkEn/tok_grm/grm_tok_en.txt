@@ -1,0 +1,14 @@
+# traitement des emails
+[\w\-]+(?:\.[\w\-]+)*@[\w\-]+(?:\.[\w\-]+)+|
+# traitement des dates
+\d\d?[\-\/]\d\d?[\-\/]\d\d(?:\d\d)?|
+# traitement des nombres
+(?:\d+[., ]?)+\d+|
+# contractions anglaises (it's, don't, I'm, can't...)
+\w+(?:'\w+)+|
+# tiret isolé
+-|
+# cas général
+(?:[\-\w]+'?)|
+# symboles isolés (ponctuation, etc. sauf espace)
+\S

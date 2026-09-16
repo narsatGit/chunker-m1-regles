@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	<texte>
+		<CHK num_rgl='16' cat_chk='chkNom'>Pete</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Hegseth</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Deploys 3,000</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>U.S.</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Troops</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>On Beer</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Run</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>WASHINGTON —</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Declaring</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>the utter lack</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>of alcohol</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>in the</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Pentagon kitchen</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>to be a</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>“</CHK>
+		<CHK num_rgl='0' cat_chk='None'>national emergency</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>”</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Defense</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Secretary</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Pete</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Hegseth reportedly deployed 3,000 troops</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>American</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>on a beer run</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Monday</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>“</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>As</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>of this morning</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>I</CHK>
+		<CHK num_rgl='12' cat_chk='chkVerb'>have ordered</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>our armed forces</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>to travel</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>to liquor stores</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='0' cat_chk='None'>gas stations</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>and</CHK>
+		<CHK num_rgl='0' cat_chk='None'>7-Elevens across</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>the country</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>to stock up</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>on brewskis</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>ASAP</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>”</CHK>
+		<CHK num_rgl='0' cat_chk='None'>said</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Hegseth</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='0' cat_chk='None'>adding that he</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>’</CHK>
+		<CHK num_rgl='0' cat_chk='None'>d also sent</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>a Stryker</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Brigade</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Combat</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Team</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>and</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>a General</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Support</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Aviation</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Battalion</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>to load up</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>their armored vehicles</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>and</CHK>
+		<CHK num_rgl='0' cat_chk='None'>aircraft</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>with as</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>many 30 - packs</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>of Keystone</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Light</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Busch</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Light</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>and</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Natty</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Light as</CHK>
+		<CHK num_rgl='11' cat_chk='chkVerb'>they could fit</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>“</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>Although</CHK>
+		<CHK num_rgl='8' cat_chk='chkVerb'>we previously ordered</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>the National</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Guard</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>to score beer back</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>in January</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='8' cat_chk='chkVerb'>it ran out in</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='0' cat_chk='None'>like</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>a day</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Now it</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>’</CHK>
+		<CHK num_rgl='0' cat_chk='None'>s becoming increasingly clear</CHK>
+		<CHK num_rgl='3' cat_chk='chkVerb'>that without military intervention</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>our kegs</CHK>
+		<CHK num_rgl='12' cat_chk='chkVerb'>will run dry</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>before the night even begins</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>The last thing</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>this nation needs is</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>to be left</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>with nothing</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>but</CHK>
+		<CHK num_rgl='0' cat_chk='None'>tequila</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>That shit gives</CHK>
+		<CHK num_rgl='8' cat_chk='chkVerb'>me such</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>a fucking hangover</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>”</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>According</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>to sources</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Hegseth also ordered</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>the military</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>to buy several thousand bottles</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>of Smirnoff</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>for some chicks</CHK>
+		<CHK num_rgl='11' cat_chk='chkVerb'>he had been texting</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+	</texte>
+</annotation>

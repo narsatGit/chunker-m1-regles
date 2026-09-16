@@ -1,0 +1,7 @@
+DET the a an this that these those my your his her its our their each some all every both few much many more most
+PREP to at in on of from with without by for about between before after during since toward against through into
+PronomP I you he she it we they me him us them my your
+PronomR_ that which who whom whose
+CONJ_ and or but so yet nor although because since while when if though unless
+MOD am is are was were have has had will would can could shall should may might must do does did
+PUNCT_ . " " : ; ? ! , ' ' “ ” ’

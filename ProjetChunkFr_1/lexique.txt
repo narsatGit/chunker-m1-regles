@@ -1,0 +1,7 @@
+DET le la l’ les un une des ce cet cette ces mon ton son ma ta sa mes tes ses notre votre leur nos vos leurs chaque certains certaines tout tous toute toutes assez peu beaucoup plusieurs
+PREP à au aux du de d’ dans en pour sur sous dès avec sans chez entre avant après pendant depuis vers contre par jusque
+PronomP je j’ tu il elle on nous vous ils elles me m’ te t’ lui se s’ ça c’
+PronomR_ que qui qu’ dont
+CONJ_ et ou mais soit donc or ni car puisque afin si quoique quand lorsque
+MOD ai as a avons avez ont suis es est sommes êtes sont serait
+PUNCT_ . “ ” : ; ? ! , « » ' ’

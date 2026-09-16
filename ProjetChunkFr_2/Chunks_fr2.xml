@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	<texte>
+		<CHK num_rgl='1' cat_chk='chkNom'>L’ armée française lance</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>un concours</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de poésie</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>pour trouver</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le nom</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>de sa prochaine opération militaire</CHK>
+		<CHK num_rgl='11' cat_chk='chkVerb'>C’ est</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>une initiative</CHK>
+		<CHK num_rgl='14' cat_chk='chkPronom'>qui</CHK>
+		<CHK num_rgl='0' cat_chk='None'>devrait faire plaisir</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>à tous</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>les amoureux</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de guerre</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>et</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>des belles lettres</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>L’ état major</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>de l’ armée française proposera</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>à tous</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>les français</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de participer</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>dès le mois prochain</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>à un grand concours visant</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>à trouver</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le nom</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de code</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>de la prochaine opération militaire</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Reportage</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Poète</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>et</CHK>
+		<CHK num_rgl='0' cat_chk='None'>inventeur</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de génie</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Maximilien</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Danos</CHK>
+		<CHK num_rgl='11' cat_chk='chkVerb'>s’ est illustré</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>en baptisant</CHK>
+		<CHK num_rgl='2' cat_chk='chkVerb'>toutes les opérations militaires françaises</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>depuis 1978</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>L’ auteur</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de Opération</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Serval (</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Mali )</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Opération</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Sangaris (</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>RCA )</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>ou</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de Opération</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Chemmal (</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Irak ) va tirer</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>sa révérence</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>après plus</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de 30 ans</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de bons</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>et</CHK>
+		<CHK num_rgl='0' cat_chk='None'>loyaux services</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='0' cat_chk='None'>laissant derrière</CHK>
+		<CHK num_rgl='9' cat_chk='chkVerb'>lui une œuvre</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>de plusieurs centaines</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de noms</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>d’ opérations</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Anticipant</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le départ</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>en retraite</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de Maximilien</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Danos</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>l’ armée française</CHK>
+		<CHK num_rgl='12' cat_chk='chkVerb'>a déjà annoncé</CHK>
+		<CHK num_rgl='14' cat_chk='chkPronom'>qu’</CHK>
+		<CHK num_rgl='8' cat_chk='chkVerb'>elle ne souhaitait pas renouveler</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le poste</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>du poète</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>«</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>Ce concours</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de poésie est</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>l’ occasion idéale</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de dénicher</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>les plumes</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>les plus fines</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>de l’ hexagone</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>»</CHK>
+		<CHK num_rgl='0' cat_chk='None'>explique</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le chef</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>d’ Etat-Major</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>des armées</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Pierre</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de Villiers</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='0' cat_chk='None'>précisant</CHK>
+		<CHK num_rgl='14' cat_chk='chkPronom'>que</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>l’ armée pourra être amenée</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>à renouveler</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>l’ initiative</CHK>
+		<CHK num_rgl='5' cat_chk='chkPrep'>pour chaque nouvelle opération</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>et</CHK>
+		<CHK num_rgl='14' cat_chk='chkPronom'>que</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>chaque gagnant</CHK>
+		<CHK num_rgl='8' cat_chk='chkVerb'>se verra remettre</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>un prix exceptionnel</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>:</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>un missile anti-aérien flambant neuf</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>Du côté</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>des poètes</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>et</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>des auteurs</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='11' cat_chk='chkVerb'>c’ est</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>l’ effervescence</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='13' cat_chk='chkConj'>et</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de premiers candidats sérieux commencent déjà</CHK>
+		<CHK num_rgl='7' cat_chk='chkVerb'>à se faire connaître</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+		<CHK num_rgl='11' cat_chk='chkVerb'>C’ est notamment</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>le cas</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de Kader</CHK>
+		<CHK num_rgl='16' cat_chk='chkNom'>Haldoui</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='0' cat_chk='None'>connu</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>pour être</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>l’ auteur</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>de nombreuses expressions utilisées</CHK>
+		<CHK num_rgl='4' cat_chk='chkPrep'>en cuisine</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>,</CHK>
+		<CHK num_rgl='14' cat_chk='chkPronom'>dont</CHK>
+		<CHK num_rgl='1' cat_chk='chkNom'>la fameuse formule</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>«</CHK>
+		<CHK num_rgl='0' cat_chk='None'>croquant-gourmand</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>»</CHK>
+		<CHK num_rgl='15' cat_chk='chkPoint'>.</CHK>
+	</texte>
+</annotation>
