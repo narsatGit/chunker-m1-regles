@@ -1,4 +1,4 @@
-# Chunker linguistique à base de règles
+# Chunker de texte à base de règles
 
 ## Présentation
 
